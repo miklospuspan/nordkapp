@@ -1,0 +1,84 @@
+# valle-lysebothn
+
+- map: https://goo.gl/maps/VWP4KYuJH4s99v2p7
+- route: seasonal restrictions
+- twisties++
+
+# dalsroaveien
+
+- map: https://goo.gl/maps/nDcvnV6UuBHhRW3z9
+- route: 306
+- twisties+
+
+# hermansverk-alesund
+
+- map: https://goo.gl/maps/5X2WfXdPV2bW2K9F9
+- route: 5 - e39 - 15 (+ferry)
+- scenery+++
+- twisties++
+
+# bo-seljord
+
+- map: https://goo.gl/maps/eLZEKhbqD5CcYnUs5
+- route: 36
+- lake++
+- plane-
+
+# kvelde-siljan
+
+- map: https://goo.gl/maps/pkBsKhdnD6gxH2hVA
+- lake+
+- twisties+
+- plane-
+
+# honningsvaag-nordkapp-gjesvaer 
+
+- map: https://goo.gl/maps/eX1Y6gdYjuA4dXj59
+- scenery+++
+- twisties-
+- plane-
+
+# stryn-geiranger-trollstigen-andalsnes
+
+- map: https://goo.gl/maps/E83d2dx6B8s9N1Et9
+- twisties+
+- scenery++
+
+# harstad-lofoten
+
+- map: https://goo.gl/maps/9mN3aDZuyEMj2oUGA
+- scenery++
+- beach+
+- twisties+
+
+# sauda-roldal
+
+- map: https://goo.gl/maps/UfSdahid4uhcVdba8
+- route: 520 (partially closed?)
+
+# langvassbukta-andenes
+
+- map: https://goo.gl/maps/FKDLsBiVnNbpY2Uj9
+- route: 82
+- beach+
+- scenery+
+- plane-
+- twisties-
+
+# lindesnes-trondheim
+
+- map: https://goo.gl/maps/y9T23m3xevBTseKY7
+- route: summarized southwest part
+- scenery++
+- beach+++
+- twisties++
+
+# trondheim-nordkapp
+
+- map: https://goo.gl/maps/BwQCupino4HWyNJN8
+- route: summarized northwest part
+- scenery+++
+- beach+
+- lofoten!!
+- ferry
+
