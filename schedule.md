@@ -1,4 +1,4 @@
-# date plan
+# date planned
 
 2023.07.14. - 2023.07.30.
 
@@ -58,67 +58,63 @@ https://goo.gl/maps/4ALUfmVMkt8BzRW17
 
 ## day 3
 
-oslo - kristiansand/stavanger
+oslo - bergen
 
 ## day 4
 
-kristiansand - bergen
+bergen - bergen
 
 ## day 5
 
-bergen - bergen
+bergen - trondheim
 
 ## day 6
 
-bergen - trondheim
+trondheim - mosjoen
 
 ## day 7
 
-trondheim - mosjoen
-
-## day 8
-
 mosjoen - lodingen
 
-## day 9 
+## day 8 
 
 lodingen - lodingen
 lofoten
 
-## day 10
+## day 9
 
 lodingen - alta
 
-## day 11
+## day 10
 
 alta - skarsvag - inari
 nordkapp
 
-## day 12
+## day 11
 
 inari - rovaniemi
 
-## day 13
+## day 12
 
 rovaniemi - sundsvall
 
-## day 14
+## day 13
 
 sundsvall - oslo
 
-## day 15
+## day 14
 
 oslo ?
 
-## day 16
+## day 15
 
 oslo - hamburg
 
-## day 17
+## day 16
 
 hamburg - arnbruck
 
-## day 18 
+## day 17 
 
 arnbruck - gyor?
 
