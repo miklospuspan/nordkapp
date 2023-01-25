@@ -22,21 +22,21 @@
 - map: https://goo.gl/maps/eLZEKhbqD5CcYnUs5
 - route: 36
 - lake++
-- plane-
+- plain-
 
 # kvelde-siljan
 
 - map: https://goo.gl/maps/pkBsKhdnD6gxH2hVA
 - lake+
 - twisties+
-- plane-
+- plain-
 
 # honningsvaag-nordkapp-gjesvaer 
 
 - map: https://goo.gl/maps/eX1Y6gdYjuA4dXj59
 - scenery+++
 - twisties-
-- plane-
+- plain-
 
 # stryn-geiranger-trollstigen-andalsnes
 
@@ -62,7 +62,7 @@
 - route: 82
 - beach+
 - scenery+
-- plane-
+- plain-
 - twisties-
 
 # lindesnes-trondheim
