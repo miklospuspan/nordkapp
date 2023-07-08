@@ -10,13 +10,6 @@
 - route: 306
 - twisties+
 
-# hermansverk-alesund
-
-- map: https://goo.gl/maps/5X2WfXdPV2bW2K9F9
-- route: 5 - e39 - 15 (+ferry)
-- scenery+++
-- twisties++
-
 # bo-seljord
 
 - map: https://goo.gl/maps/eLZEKhbqD5CcYnUs5
@@ -31,18 +24,26 @@
 - twisties+
 - plain-
 
-# honningsvaag-nordkapp-gjesvaer 
+# hermansverk-alesund
 
-- map: https://goo.gl/maps/eX1Y6gdYjuA4dXj59
+- map: https://goo.gl/maps/vDBCCT5b6NZjjGP97
+- route: 5 - e39 - 15 (+ferry)
 - scenery+++
-- twisties-
-- plain-
+- twisties++
 
 # stryn-geiranger-trollstigen-andalsnes
 
 - map: https://goo.gl/maps/E83d2dx6B8s9N1Et9
 - twisties+
 - scenery++
+- same as above?
+
+# honningsvaag-nordkapp-gjesvaer
+
+- map: https://goo.gl/maps/eX1Y6gdYjuA4dXj59
+- scenery+++
+- twisties-
+- plain-
 
 # harstad-lofoten
 
@@ -81,4 +82,3 @@
 - beach+
 - lofoten!!
 - ferry
-
